@@ -17,6 +17,7 @@
 		871C85F227BCF52C00F10C67 /* ArtBookProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C85F127BCF52C00F10C67 /* ArtBookProjectTests.swift */; };
 		871C85FC27BCF52C00F10C67 /* ArtBookProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C85FB27BCF52C00F10C67 /* ArtBookProjectUITests.swift */; };
 		871C85FE27BCF52C00F10C67 /* ArtBookProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C85FD27BCF52C00F10C67 /* ArtBookProjectUITestsLaunchTests.swift */; };
+		871C860B27BCF67F00F10C67 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C860A27BCF67F00F10C67 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		871C85F727BCF52C00F10C67 /* ArtBookProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArtBookProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		871C85FB27BCF52C00F10C67 /* ArtBookProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookProjectUITests.swift; sourceTree = "<group>"; };
 		871C85FD27BCF52C00F10C67 /* ArtBookProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		871C860A27BCF67F00F10C67 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				871C85D727BCF52B00F10C67 /* AppDelegate.swift */,
 				871C85D927BCF52B00F10C67 /* SceneDelegate.swift */,
 				871C85DB27BCF52B00F10C67 /* ViewController.swift */,
+				871C860A27BCF67F00F10C67 /* DetailsVC.swift */,
 				871C85DD27BCF52B00F10C67 /* Main.storyboard */,
 				871C85E327BCF52B00F10C67 /* Assets.xcassets */,
 				871C85E527BCF52B00F10C67 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				871C85DC27BCF52B00F10C67 /* ViewController.swift in Sources */,
 				871C85D827BCF52B00F10C67 /* AppDelegate.swift in Sources */,
 				871C85DA27BCF52B00F10C67 /* SceneDelegate.swift in Sources */,
+				871C860B27BCF67F00F10C67 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
